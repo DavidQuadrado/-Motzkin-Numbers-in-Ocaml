@@ -1,7 +1,7 @@
 (*
    
   Disciplina : Programação Funcional
-  Aluno : David Quadrado 48188
+  Aluno : David Quadrado 
   Problema A -> Numeros de Motzkin
 
 *)
